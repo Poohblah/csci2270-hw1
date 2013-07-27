@@ -1,0 +1,2 @@
+g++ -Wall point.cpp test1.cxx -o test1
+g++ -Wall line.cpp test2.cxx -o test2
